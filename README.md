@@ -9,23 +9,7 @@
 
 <p align="center">
 ♦️ 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 ♦️
-</p>
-<p align="center">
-<a href="https://youtu.be/Af055Eozk9s">/start</a> - <b>Start</b>
-</p>
-
-<p align="center">
-🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 𝗜𝗻 𝗥𝗮𝗶𝗹𝘄𝗮𝘆 🤔
-</p>
-
-<p align="center">
-<a href="https://youtu.be/fRPK5ykcNjU"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/fRPK5ykcNjU"><img src="https://img.shields.io/youtube/views/fRPK5ykcNjU?style=social"></a>
-</p>
-<p align="center">
-<a href="https://youtu.be/D5EWDxOCdLI"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/D5EWDxOCdLI"><img src="https://img.shields.io/youtube/views/D5EWDxOCdLI?style=social"></a>
-</p>
+<b>Start</b>
 
 <p align="center">
 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 📍
