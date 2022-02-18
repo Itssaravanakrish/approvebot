@@ -22,7 +22,7 @@ async def start(client: pr0fess0r_99, message: Message):
       ],[
       InlineKeyboardButton("Bot List 🤖", url=f"https://t.me/No1_Bots/11")
       ]]
-    await message.reply_text(text="""Heyy, {Mention} **__Iam Auto Approved Join Request Bot
+    await message.reply_text(text="""**__Hεүү, Iam Auto Approved Join Request Bot
 
 • I can Auto approve new join requests In Channels And Groups
 • Make Me Admin In Ur Channel Or Group With Invite Users Permission, Then See The magic ✨.**__""", reply_markup=InlineKeyboardMarkup(button), disable_web_page_preview=True)
